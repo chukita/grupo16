@@ -1,0 +1,38 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#menu{
+    width:100%; 
+    float: left;
+}
+
+#titulo{
+    float: left; 
+    width: 70%;
+}
+
+a{
+    color:#000;
+    text-decoration: none;
+}
+
+a{
+    color:#f00;
+    text-decoration: none;
+}
+
+.texto-verde{
+    color: #1abc9c;
+    font-weight: bold;
+}
+
+h3{color:#000}
+
+#cuerpo h3{
+    color:#fff;
+}
+
+h3.texto-verde{
+    color:#1abc9c;
+}
